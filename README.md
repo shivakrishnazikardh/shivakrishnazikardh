@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivakrishnazikardh
-- 👀 I’m interested in Programming and finding new insights through the data
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in the field of Data Science
+- 🌱 I’m currently exploring more related to this field
 - 💞️ I’m looking to collaborate on projects related to the field of data dcience
 - 📫 Can reach me through my mail-id: shivakrishna.a26092gmail.com
 
